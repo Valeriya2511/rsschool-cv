@@ -14,9 +14,13 @@
 
 I am 28 years old. I started studying at **RS School**! I worked as an accountant. I have no experience in programming. But I think it will work out. I also love coffee, cats and playing ps4.=)))
 
+## Work experience
+
+I do not have work experience
+
 ## Education
 
-Karaganda Buketov University
+Karaganda Buketov University - specialty Accounting and Audit
 
 ## Language
 
