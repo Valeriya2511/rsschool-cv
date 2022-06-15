@@ -12,9 +12,6 @@ body {
 * {
     box-sizing: border-box;
 }
-.header {
-
-}
 
 .container {
     max-width: 1440px;
@@ -46,10 +43,6 @@ body {
   }
   .section-item a:hover {
     color: #4d2323;
-  }
-
-  .bold {
-    font-size: ;
   }
 
   .bold {
