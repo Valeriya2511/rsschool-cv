@@ -14,3 +14,30 @@ I am 29 years old. I started studying at **RS School**! I worked as an accountan
 ## Progect
 
 I do not have work experience
+
+
+## Education
+
+Karaganda Buketov University - specialty Accounting and Audit
+
+## Courses
+
+- RS School - JavaScript/Front-End Development
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript (Basic)
+- Git, GitHub
+
+## Code
+
+```
+function solution(str, ending){
+  return str.endsWith(ending);
+}
+```
+## Language
+
+English - A1
